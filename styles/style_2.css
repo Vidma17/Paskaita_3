@@ -1,0 +1,40 @@
+body {
+    font-family: arial;
+    background-color: cornflowerblue;
+}
+
+.left {
+    color: white;
+    background-color: violet;
+    display: inline-block;
+    padding: 10px;
+}
+
+.left-first {
+    color: white;
+    background-color: thistle;
+    margin: 15px;
+}
+
+.left-second {
+    color: white;
+    background-color: tomato;
+}
+
+.right {
+    color: white;
+    background-color: yellowgreen;
+    display: inline-block;
+    padding: 10px;
+}
+    
+.right-first {
+    color: white;
+    background-color: blueviolet;
+    margin: 15px;
+}
+   
+.right-second {
+    color: white;
+    background-color: deepskyblue;
+}

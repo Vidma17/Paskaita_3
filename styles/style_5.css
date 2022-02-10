@@ -1,0 +1,13 @@
+body {
+    font-family: arial;
+    background-color: cornflowerblue;
+}
+
+h1 {
+    color: red;
+    background-color: rgb(16, 214, 165);
+}
+
+a {
+    color: black;
+}

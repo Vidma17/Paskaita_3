@@ -1,0 +1,19 @@
+body {
+    font-family: arial;
+    background-color: cornflowerblue;
+}
+
+h1 {
+    color: black;
+    background-color: white;
+}
+
+.cool-box {
+    background-color: yellow;
+    padding: 20px;
+}
+
+div {
+    background-color: red;
+    padding: 20px 15px 20px 15px;
+}
